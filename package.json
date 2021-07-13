@@ -1,0 +1,15 @@
+{
+  "name": "typeracer",
+  "version": "1.0.0",
+  "description": "this a typeing game like typeracer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tejas jagdale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
