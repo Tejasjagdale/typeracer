@@ -120,7 +120,7 @@
             </div>
         </main>
     </body>
-    <script src ="http://localhost:2512/socket.io/socket.io.js"></script>
+    <script src ="http://temp-app-typeracer.herokuapp.com/socket.io/socket.io.js"></script>
     <script>
         document.onkeydown = function (e) {
          return false;
@@ -131,7 +131,7 @@
         document.onkeypress = function (e) {
          return false;
         }
-        const socket = io('http://localhost:2512');
+        const socket = io('http://temp-app-typeracer.herokuapp.com');
         var url_string = window.location; 
         var url = new URL(url_string);
         var difficulty = "Beginner";
