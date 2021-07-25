@@ -13,3 +13,9 @@ there is also a room feature with which you can also race with your friends by s
 
 
 ![image](https://user-images.githubusercontent.com/69722269/126900651-a5a12688-d3c0-452d-825c-e9c05ee26dfd.png)
+
+
+![image](https://user-images.githubusercontent.com/69722269/126900926-5607afbc-58ea-46aa-ad21-fb22dfafa4a0.png)
+
+
+![image](https://user-images.githubusercontent.com/69722269/126900959-c61af02c-7a31-46b2-a3c1-70d86aa7480b.png)
